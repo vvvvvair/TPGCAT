@@ -42,6 +42,14 @@ We propose **TPGCAT (Text Prior-Guided Cell Alignment Transformer)**, a cascaded
   We introduce a real-world generalization benchmark containing diverse table styles, domains, languages, and content types.
 
 
+## MixTable Dataset
+
+We introduce **MixTable**, a real-world benchmark designed to evaluate the generalization ability of table structure recognition models.
+
+MixTable contains **2,000 table images** collected from diverse real-world sources, including academic papers, financial reports, and books. It covers fully wired, partially wired, and wireless tables, as well as challenging cases involving row/column spans, empty cells, diverse background styles, multilingual content, mathematical formulas, and chemical equations.
+
+📦 **Dataset:** [Download MixTable](https://drive.google.com/file/d/1zmcWePyD0J9-4eMeqK0pB0YUJFKr8R0o/view?usp=drive_link)
+
 ## Acknowledgements
 
 TPGCAT builds on ideas from the broader table-structure-recognition community. 
